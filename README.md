@@ -1,7 +1,4 @@
----
-tags: ruby, oo, group challenge
-type: group challenge
----
+
 ## Object Orientation Challenge: SIM CITY
 
 It's time to take everything you've learned so far and put it in to real-life practice.
