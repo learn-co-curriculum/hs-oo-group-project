@@ -18,3 +18,5 @@ Follow these steps with your group and build out an awesome simulation!
 + Start building - Make sure to start small, test your app frequently, and build out from there. Since you're working in groups, **COMMUNICATION IS KEY!!!** Talk through your problems out loud, encourage each other, make sure you're switching off the driver and navigator roles.
 
 Here is a link to the OO jungle project that we demo-ed in class: [Jungle](https://github.com/learn-co-curriculum/hs-oo-jungle-project-demo)
+
+<a href='https://learn.co/lessons/hs-oo-group-project' data-visibility='hidden'>View this lesson on Learn.co</a>
