@@ -19,4 +19,4 @@ Follow these steps with your group and build out an awesome simulation!
 
 Here is a link to the OO jungle project that we demo-ed in class: [Jungle](https://github.com/learn-co-curriculum/hs-oo-jungle-project-demo)
 
-<a href='https://learn.co/lessons/hs-oo-group-project' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-oo-group-project' title='Object Orientation Challenge: SIM CITY'>Object Orientation Challenge: SIM CITY</a> on Learn.co and start learning to code for free.</p>
